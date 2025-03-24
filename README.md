@@ -42,6 +42,6 @@ The architecture is designed as follows:
 To run the project locally, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/UdaraChamidu/image-caption-generator.git
+git clone https://github.com/UdaraChamidu/Building-an-Image-Caption-Generator-using-CNN-LSTM-from-Scratch.git
 cd image-caption-generator
 pip install -r requirements.txt
